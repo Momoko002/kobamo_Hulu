@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fwimg img{
+  width: 100vw;
+}
+
+.bridge img{
+    width: 100vw;;
+}
+
+.story {
+    background-image: url(img/story-background.jpg);
+}
